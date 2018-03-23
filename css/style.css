@@ -1,0 +1,125 @@
+html{
+  background-image: url(https://static.pexels.com/photos/450100/pexels-photo-450100.jpeg);
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+   font-family: 'Open Sans', sans-serif; font-size:large;
+}
+
+header {
+  width: 100%;
+  align-content: center;
+}
+
+p, blockquote, uk-grid-width-1-4{
+    background: rgba(192,192,192,0.8);
+  margin: auto;
+  padding: 0.6em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+ 
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+ul {
+  list-style:none;
+}
+
+
+ul {
+	float: left;
+	list-style-type: none;
+}
+
+li {
+	display: inline-flex;
+  justify-content: space-evenly;
+}
+
+li img{
+	display: inline-flex;
+  width: fixed;
+}
+
+.uk-grid-width-1-4{
+  padding: 2em;
+}
+
+h3{
+  
+  font: 24pt Spectral,"Spectral SC", Spectral SC, serif;
+  text-transform: uppercase;
+background-color: white;
+}
+
+h4{
+  
+  font: 12pt Spectral,"Spectral SC", Spectral, serif;
+  text-transform: uppercase;
+  font-weight:150;
+  background-color: white;
+padding: 5px;
+}
+
+.uk-navbar {
+  background-color: #fff;
+  
+}
+
+.uk-navbar {
+width: 100%;
+  margin: left 5px;
+}
+
+.similarproducts img {
+  
+}
+
+.uk-navbar li {
+  margin-left: 10px;
+  
+}
+
+.uk-navbar img {
+  width: 90%;
+  margin-left: 20px;
+}
+
+
+h3 {
+  background-color: white;
+   text-align: center;
+   margin: 0px auto;
+    display; block;
+}
+
+.uk-grid-width-1-4 img{
+  width: 100%;
+  height: 100%;
+}
+
+.lg-backdrop {
+  background-color:#e6d7b3;
+}
+
+
+
+
+
+
+
